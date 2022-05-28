@@ -2,6 +2,8 @@
 
 <!--
 **Anilskd/Anilskd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anil🙋‍♂️, a final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things. I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
+
 
 Here are some ideas to get you started:
 
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+https://i.pinimg.com/550x/d3/a5/b7/d3a5b77b86f84e2d55a09605cdcbb666.jpg
 <h1 align="center">Hi 👋, I'm Anil Skd</h1>
 <h3 align="center">A passionate BackEnd developer from India</h3>
 <img align="right" alt="Coding" eidth="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
