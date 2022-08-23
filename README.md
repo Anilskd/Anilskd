@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Anil🙋‍♂️, a final year CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things. I'm a Java Full Stack Developer Enthusiast🐍. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
+I'm Anil🙋‍♂️, am a CSE student with a great passion for programming, a tech enthusiast with passion to solve problems and to make things. I'm a Java Full Stack Developer Enthusiast🐍. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
 
 <h1 align="center">Hi 👋, I'm Anil Skd</h1>
 <h3 align="center">A passionate BackEnd developer from India</h3>
